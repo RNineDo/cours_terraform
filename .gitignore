@@ -3,6 +3,7 @@
 *.tfstate
 *.tfstate.backup
 .terraform.lock.hcl
+.terraform.exe
 
 # Variables sensibles (si vous en créez)
 *.tfvars
